@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johanna Rayl / Site Title"
+title                    : "Johanna Rayl"
 title_separator          : "-"
 name                     : &name "Johanna Rayl"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Economics at Northwestern"
 url                      : https://jrayl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jrayl/jrayl.github.io"
