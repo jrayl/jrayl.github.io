@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Works in Progress"
 permalink: /research/
 author_profile: true
 ---
 
-# Work in Progress
 
 **The Effects and Effectiveness of Emergency Price Controls During Natural Disasters** (with Nadia Lucas, Ishan Nath, and Becky Scurlock)
 
