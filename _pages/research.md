@@ -5,12 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Work in Progress
 
-{% include base_path %}
+**The Effects and Effectiveness of Emergency Price Controls During Natural Disasters** (with Nadia Lucas, Ishan Nath, and Becky Scurlock)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Income Downscaling with Nightlights** (with Tamma Carleton and James Rising)
