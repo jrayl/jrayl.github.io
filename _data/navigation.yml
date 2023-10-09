@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+
+  - title: "Long Covid"
+    url: /longcovid/
     
   #- title: "CV"
     #url: /cv/
