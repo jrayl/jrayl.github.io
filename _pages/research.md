@@ -2,7 +2,7 @@
 layout: archive
 title: "Works in Progress"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 
