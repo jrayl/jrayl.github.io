@@ -10,4 +10,4 @@ author_profile: false
 
 **Income Downscaling with Nightlights** (with Tamma Carleton and James Rising)
 
-**Can water markets price the reliability of a water right efficiently? Evidence from transfers of non-consumptive water rights in Chile** (with Yusuke Kuwayama and Tyler Treakle)
+**Does the Value of Reliability Capitalize in Water Markets?** (with Yusuke Kuwayama and Tyler Treakle)
