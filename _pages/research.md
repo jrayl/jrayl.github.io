@@ -12,3 +12,5 @@ author_profile: false
 
 ## Working Papers 
 **[Does the Value of Reliability Capitalize in Water Markets?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647)** (with Yusuke Kuwayama and Tyler Treakle)
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647</a>
