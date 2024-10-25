@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD Candidate in Economics and NSF Graduate Research Fellow at Northwestern University in the field of Energy and Environmental Economics. Previously I worked at the Energy Policy Institute of UChicago and studied Environmental Analysis at Pomona College.
+I am a fourth year PhD Candidate in Economics and NSF Graduate Research Fellow at Northwestern University in Energy and Environmental Economics, and Public Economics. My research focuses on efficiency and equity in energy and environmental policy. 
 
 Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
