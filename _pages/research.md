@@ -6,6 +6,8 @@ author_profile: false
 ---
 
 ## Works in Progress
+**Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia**
+
 **The Effects and Effectiveness of Emergency Price Controls During Natural Disasters** (with Nadia Lucas, Ishan Nath, and Becky Scurlock)
 
 **Income Downscaling with Nightlights** (with Tamma Carleton and James Rising)
