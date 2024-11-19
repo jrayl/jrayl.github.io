@@ -14,7 +14,7 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 
 ## Works in Progress
-**Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia**
+**Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia** (with Budy Resosudarmo)
 
 **The Effects and Effectiveness of Emergency Price Controls During Natural Disasters** (with Michael Dinerstein, Nadia Lucas, Ishan Nath, and Becky Scurlock)
 
