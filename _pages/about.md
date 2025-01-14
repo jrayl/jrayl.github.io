@@ -24,6 +24,6 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>** (with Yusuke Kuwayama and Tyler Treakle)
 
 ## Published and Accepted Papers
-**Private Markets and Public Assistance for Natural Disaster Supplies** (with Michael Dinerstein, Nadia Lucas, and Ishan Nath)
+**Private Markets and Public Assistance for Natural Disaster Supplies** (with Michael Dinerstein, Nadia Lucas, and Ishan Nath) -- Forthcoming in the _AEA Papers and Proceedings_
 
 
