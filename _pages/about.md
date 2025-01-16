@@ -14,16 +14,16 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 
 ## Works in Progress
-**Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia** (with Budy Resosudarmo)
+_Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia_ (with Budy Resosudarmo)
 
-**The Effects and Effectiveness of Emergency Price Controls During Natural Disasters** (with Michael Dinerstein, Nadia Lucas, and Ishan Nath)
+_The Effects and Effectiveness of Emergency Price Controls During Natural Disasters_ (with Michael Dinerstein, Nadia Lucas, and Ishan Nath)
 
-**Income Downscaling with Nightlights** (with Tamma Carleton and James Rising)
+_Income Downscaling with Nightlights_ (with Tamma Carleton and James Rising)
 
 ## Working Papers 
-**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>** (with Yusuke Kuwayama and Tyler Treakle)
+_<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>_ (with Yusuke Kuwayama and Tyler Treakle)
 
 ## Published and Accepted Papers
-**Private Markets and Public Assistance for Natural Disaster Supplies** (with Michael Dinerstein, Nadia Lucas, and Ishan Nath) -- Forthcoming in the _AEA Papers and Proceedings_
+_Private Markets and Public Assistance for Natural Disaster Supplies_ (with Michael Dinerstein, Nadia Lucas, and Ishan Nath) -- Forthcoming in the _AEA Papers and Proceedings_
 
 
