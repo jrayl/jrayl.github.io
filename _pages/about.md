@@ -24,6 +24,6 @@ _Income Downscaling with Nightlights_ (with Tamma Carleton and James Rising)
 _<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>_ (with Yusuke Kuwayama and Tyler Treakle)
 
 ### Published and Accepted Papers
-_Private Markets and Public Assistance for Natural Disaster Supplies_ (with Michael Dinerstein, Nadia Lucas, and Ishan Nath) -- Forthcoming in the _AEA Papers and Proceedings_
+_<a href="https://jrayl.github.io/files/Dinerstein_etal_NaturalDisasterSupplies" target="_blank">Private Markets and Public Assistance for Natural Disaster Supplies</a>_ (with Michael Dinerstein, Nadia Lucas, and Ishan Nath) -- Forthcoming in the _AEA Papers and Proceedings_
 
 
