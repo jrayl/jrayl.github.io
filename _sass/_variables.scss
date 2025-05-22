@@ -13,6 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : "Noto Sans", Arial, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
