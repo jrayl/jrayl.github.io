@@ -21,7 +21,7 @@ _The Effects and Effectiveness of Emergency Price Controls During Natural Disast
 <span class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</span>
 
 _Paid Maternity Leave and Children's Outcomes in the Long Run_ <br>
-<span class="small>with Tessa Bonomo</span>
+<span class="small">with Tessa Bonomo</span>
 
 _Income Downscaling with Nightlights_ <br>
 <span class="small">with Tamma Carleton and James Rising</span>
