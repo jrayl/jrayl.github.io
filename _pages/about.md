@@ -12,6 +12,8 @@ I am a fifth year PhD Candidate in Economics and NSF Graduate Research Fellow at
 
 I will be on the job market during the 2025-2026 academic year. 
 
+You can find my CV <a href="https://jrayl.github.io/files/RaylCV_08222025.pdf" target="_blank">here</a>.
+
 Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 
