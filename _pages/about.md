@@ -53,17 +53,16 @@ Forthcoming in the _AEA Papers and Proceedings_ </span>
   }
   .abstract {
     display: none;
-    margin-top: 8px;
-    padding: 10px;
-    background-color: #f9f9f9;
-    border-left: 3px solid #ccc;
-    border-radius: 6px;
+    margin-top: 6px;
+    font-size: 0.9em;   /* smaller font */
+    color: #444;        /* darker grey */
   }
   .toggle-link {
     font-size: 0.9em;
-    color: #007acc;
+    color: #666;        /* grey link text */
     cursor: pointer;
     text-decoration: underline;
+    margin-top: 4px;
   }
 </style>
 
