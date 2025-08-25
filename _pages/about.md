@@ -61,11 +61,11 @@ Forthcoming in the _AEA Papers and Proceedings_ </span>
     display: none;
     margin-top: 6px;
     font-size: 0.9em;   /* smaller font */
-    color: #444;        /* darker grey */
+    color: #000;        /* black abstract text */
   }
   .toggle-link {
     font-size: 0.9em;
-    color: #666;        /* grey link text */
+    color: #999;        /* grey link text */
     cursor: pointer;
     text-decoration: underline;
     margin-top: 4px;
