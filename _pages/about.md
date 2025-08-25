@@ -18,8 +18,14 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 
 ## Works in Progress
-_Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia_ <br>
-<span class="small">with Budy Resosudarmo</span>
+<div class="paper">
+  <div><em>Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia</em></div>
+  <div class="small">with Budy Resosudarmo</div>
+  <div class="toggle-link" onclick="toggleAbstract(this)">[Abstract]</div>
+  <div class="abstract">
+    We study optimal design of cash and in-kind progressive reforms to fuel subsidies in a setting with limited information: cash transfers and fuel subsidies in Indonesia. In       2005, the government shifted spending away from a costly and regressive consumer fossil fuel subsidy and towards a targeted cash transfer program, which was hindered by the      government's limited ability to identify low-income households. In our model, a planner with distributional preferences may prefer in-kind over cash mechanisms if the            targeting benefits of self-selection over the in-kind good outweigh the inefficiencies associated with subsidization. We take this model to the data, estimating household        preferences for fuel by exploiting large exogenous shocks to fuel prices, and solving for the optimal policy given a limited government information set. Targeted cash            transfers outperform optimal fuel subsidies in most cases.
+  </div>
+</div>
 
 _The Effects and Effectiveness of Emergency Price Controls During Natural Disasters_ <br>
 <span class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</span>
@@ -40,4 +46,35 @@ _<a href="https://jrayl.github.io/files/Dinerstein_etal_NaturalDisasterSupplies.
 <span class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath <br>
 Forthcoming in the _AEA Papers and Proceedings_ </span>
 
+
+<style>
+  .paper {
+    margin-bottom: 20px;
+  }
+  .abstract {
+    display: none;
+    margin-top: 8px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #ccc;
+    border-radius: 6px;
+  }
+  .toggle-link {
+    font-size: 0.9em;
+    color: #007acc;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+</style>
+
+<script>
+  function toggleAbstract(link) {
+    const abstract = link.nextElementSibling;
+    if (abstract.style.display === "block") {
+      abstract.style.display = "none";
+    } else {
+      abstract.style.display = "block";
+    }
+  }
+</script>
 
