@@ -34,7 +34,7 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 </div> 
 
 <div class="paper">
-  <div><em>Paid Maternity Leave and Children's Outcomes in the Long Run</em></div>
+  <div class="paper-title">Paid Maternity Leave and Children's Outcomes in the Long Run</div>
   <div class="small">with Tessa Bonomo</div>
   <div class="small">Approved US Census Bureau project</div>
   <div class="toggle-link" onclick="toggleAbstract(this)">[Abstract]</div>
