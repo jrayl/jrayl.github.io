@@ -19,7 +19,7 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 ## Job Market Paper
 <div class="paper">
-  <div><em>Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia</em></div>
+  <div class ="paper-title">Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia</div>
   <div class="small">with Budy Resosudarmo</div>
   <div class="toggle-link" onclick="toggleAbstract(this)">[Abstract]</div>
   <div class="abstract">
@@ -28,8 +28,10 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 </div>
 
 ## Works in Progress
-_The Effects and Effectiveness of Emergency Price Controls During Natural Disasters_ <br>
-<span class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</span>
+<div class="paper">
+  <div class="paper-title">The Effects and Effectiveness of Emergency Price Controls During Natural Disasters</div>
+  <div class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</div>
+</div> 
 
 <div class="paper">
   <div><em>Paid Maternity Leave and Children's Outcomes in the Long Run</em></div>
@@ -41,22 +43,38 @@ _The Effects and Effectiveness of Emergency Price Controls During Natural Disast
   </div>
 </div>
 
-_Income Downscaling with Nightlights_ <br>
-<span class="small">with Tamma Carleton and James Rising</span>
+<div class="paper">
+  <div class="paper-title">Income Downscaling with Nightlights</div>
+  <div class="small">with Tamma Carleton and James Rising</div>
+</div>
 
 ## Working Papers 
-_<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>_ <br>
-<span class="small">with Yusuke Kuwayama and Tyler Treakle</span>
+<div class="paper">
+  <div class="paper-title">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>
+  </div>
+  <div class="small">with Yusuke Kuwayama and Tyler Treakle</div>
+</div>
+
 
 ## Published and Accepted Papers
-_<a href="https://jrayl.github.io/files/Dinerstein_etal_NaturalDisasterSupplies.pdf" target="_blank">Private Markets and Public Assistance for Natural Disaster Supplies</a>_ <br>
-<span class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath <br>
-Forthcoming in the _AEA Papers and Proceedings_ </span>
+<div class="paper">
+  <div class="paper-title">
+  <a href="https://jrayl.github.io/files/Dinerstein_etal_NaturalDisasterSupplies.pdf" target="_blank">Private Markets and Public Assistance for Natural Disaster Supplies</a> 
+  </div>
+  <div class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath </div>
+  <div class="small">Forthcoming in the _AEA Papers and Proceedings</div>
+</div>
 
 
 <style>
   .paper {
     margin-bottom: 20px;
+  }
+  .paper-title,
+  .paper-title a { 
+    color:#8FBC8F; /* sage green */
+    font-weight: 600;
   }
   .abstract {
     display: none;
