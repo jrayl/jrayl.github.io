@@ -17,7 +17,7 @@ You can find my CV <a href="https://jrayl.github.io/files/RaylCV.pdf" target="_b
 Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 
-## Works in Progress
+## Job Market Paper
 <div class="paper">
   <div><em>Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia</em></div>
   <div class="small">with Budy Resosudarmo</div>
@@ -27,6 +27,7 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   </div>
 </div>
 
+## Works in Progress
 _The Effects and Effectiveness of Emergency Price Controls During Natural Disasters_ <br>
 <span class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</span>
 
