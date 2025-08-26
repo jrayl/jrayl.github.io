@@ -73,8 +73,8 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   }
   .paper-title,
   .paper-title a { 
-    color:#6B8E23; /* sage green */
-    font-weight: 600;
+    color:#59805d; /* sage green */
+    font-weight: 500;
   }
   .abstract {
     display: none;
