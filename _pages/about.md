@@ -63,7 +63,7 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   <a href="https://jrayl.github.io/files/Dinerstein_etal_NaturalDisasterSupplies.pdf" target="_blank">Private Markets and Public Assistance for Natural Disaster Supplies</a> 
   </div>
   <div class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath </div>
-  <div class="small">Forthcoming in the _AEA Papers and Proceedings</div>
+  <div class="small"><em>AEA Papers and Proceedings</em></div>
 </div>
 
 
