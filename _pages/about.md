@@ -33,6 +33,10 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   <div class="paper-title">The Effects and Effectiveness of Emergency Price Controls During Natural Disasters</div>
   <div class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</div>
   <div class="small">(draft coming soon pending disclosure review)</div>
+  <div class="toggle-link" onclick="toggleAbstract(this)">[Abstract]</div>
+  <div class="abstract">
+    Anti-price gouging laws, present in most US states, penalize retailers if they make large price increases to disaster supplies during states of emergency. Price caps during periods of high and inelastic demand may worsen or alleviate shortages of essential supplies — they can decrease the incentive to restock supplies by reducing the resale price at which the new inventory sells, or they can increase the incentive to restock supplies by generating more unmet demand at initial inventory levels. We use retailer scanner data and novel trucking data to estimate the effects of US natural disasters on quantities transacted and prices. We estimate that disasters increase demand for a set of 20 essential goods, with increases in mean quantities transacted but also in the probability of having a stockout. Prices increase, with the largest changes concentrated in a minority of retailers, but we see no effects of anti-price gouging laws on the probability of price hikes. On the supply-side, we see limited evidence of marginal cost increases and we estimate a shift in restocking from the disaster period to the week proceeding it. Motivated by this evidence, we specify a structural model that will evaluate how stringent enforcement of price caps would affect shortages and consumer surplus during disasters. We construct a non-parametric identification argument that combines an instrument for restocking costs with the observed joint distribution of restocking and quantities transacted to recover latent demand and initial inventory levels.
+  </div>
 </div> 
 
 <div class="paper">
