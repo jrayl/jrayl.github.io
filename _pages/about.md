@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth year PhD Candidate in Economics and NSF Graduate Research Fellow at Northwestern University. My research is in the fields of Energy and Environmental Economics, Public Economics, and Industrial Organization, focusing on efficiency and equity tradeoffs in energy and environmental policy. 
 
-I will be on the job market during the 2025-2026 academic year. 
+I will be a S.V. Ciriacy-Wantrup Postdoctoral Fellow at UC Berkeley beginning in summer 2026. 
 
 You can find my CV <a href="https://jrayl.github.io/files/RaylCV.pdf" target="_blank">here</a>.
 
