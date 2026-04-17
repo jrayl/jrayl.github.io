@@ -12,7 +12,7 @@ I am a fifth year PhD Candidate in Economics and NSF Graduate Research Fellow at
 
 I will be a S.V. Ciriacy-Wantrup Postdoctoral Fellow at UC Berkeley beginning in summer 2026. 
 
-You can find my CV <a href="https://jrayl.github.io/files/RaylCV.pdf" target="_blank">here</a>.
+You can find my CV <a href="https://jrayl.github.io/files/RaylCV_Apr2026.pdf" target="_blank">here</a>.
 
 Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
