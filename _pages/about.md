@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD Candidate in Economics and NSF Graduate Research Fellow at Northwestern University. My research is in the fields of Energy and Environmental Economics, Public Economics, and Industrial Organization, focusing on efficiency and equity tradeoffs in energy and environmental policy. 
+I recieved a PhD in Economics from Northwestern University in June 2026. My research is in the fields of Energy and Environmental Economics, Public Economics, and Industrial Organization, focusing on efficiency and equity tradeoffs in energy and environmental policy. 
 
 I will be a S.V. Ciriacy-Wantrup Postdoctoral Fellow at UC Berkeley beginning in summer 2026. 
 
@@ -17,7 +17,7 @@ You can find my CV <a href="https://jrayl.github.io/files/RaylCV_Apr2026.pdf" ta
 Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
 
-## Job Market Paper
+## Working Papers
 <div class="paper">
   <div class ="paper-title"><a href="https://jrayl.github.io/files/Rayl_Resosudarmo_FuelSubsidies.pdf" target="_blank">Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia</a></div>
   <div class="small">with Budy Resosudarmo</div>
@@ -27,7 +27,6 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   </div>
 </div>
 
-## Works in Progress
 <div class="paper">
   <div class="paper-title"><a href="https://jrayl.github.io/files/Dinerstein_Lucas_Nath_Rayl_PriceGouging.pdf" target="_blank">The Effects and Effectiveness of Emergency Price Controls During Natural Disasters</a></div>
   <div class="small">with Michael Dinerstein, Nadia Lucas, and Ishan Nath</div>
@@ -37,6 +36,14 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   </div>
 </div> 
 
+<div class="paper">
+  <div class="paper-title">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>
+  </div>
+  <div class="small">with Yusuke Kuwayama and Tyler Treakle</div>
+</div>
+
+## Works in Progress
 <div class="paper">
   <div class="paper-title">Paid Maternity Leave and Children's Outcomes in the Long Run</div>
   <div class="small">with Tessa Bonomo</div>
@@ -51,15 +58,6 @@ Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
   <div class="paper-title">Income Downscaling with Nightlights</div>
   <div class="small">with Tamma Carleton and James Rising</div>
 </div>
-
-## Working Papers 
-<div class="paper">
-  <div class="paper-title">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4907647" target="_blank">Does the Value of Reliability Capitalize in Water Markets?</a>
-  </div>
-  <div class="small">with Yusuke Kuwayama and Tyler Treakle</div>
-</div>
-
 
 ## Published and Accepted Papers
 <div class="paper">
