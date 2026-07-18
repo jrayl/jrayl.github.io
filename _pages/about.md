@@ -12,7 +12,7 @@ I am an S.V. Ciriacy-Wantrup Postdoctoral Fellow at the UC Berkeley Agricultural
 
 I recieved a PhD in Economics from Northwestern University in June 2026. My research is in the fields of Energy and Environmental Economics, Public Economics, and Industrial Organization, focusing on efficiency and equity tradeoffs in energy and environmental policy.  
 
-You can find my CV <a href="https://jrayl.github.io/files/RaylCV_Apr2026.pdf" target="_blank">here</a>.
+You can find my CV <a href="https://jrayl.github.io/files/CV_Rayl_Jul2026.pdf" target="_blank">here</a>.
 
 Email: [johannarayl@u.northwestern.edu](mailto:johannarayl@u.northwestern.edu)
 
