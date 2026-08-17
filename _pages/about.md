@@ -14,7 +14,7 @@ I recieved a PhD in Economics from Northwestern University in June 2026. My rese
 
 You can find my CV <a href="https://jrayl.github.io/files/CV_Rayl_Jul2026.pdf" target="_blank">here</a>.
 
-Email: [johannarayl@berkeley.edu](mailto:johannarayl@berkeley.edu)
+Email: johannarayl [at] berkeley [dot] edu
 
 
 ## Working Papers
