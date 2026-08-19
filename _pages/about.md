@@ -54,11 +54,6 @@ Email: johannarayl [at] berkeley [dot] edu
   </div>
 </div>
 
-<div class="paper">
-  <div class="paper-title">Income Downscaling with Nightlights</div>
-  <div class="small">with Tamma Carleton and James Rising</div>
-</div>
-
 ## Published and Accepted Papers
 <div class="paper">
   <div class="paper-title">
