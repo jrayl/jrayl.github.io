@@ -45,12 +45,12 @@ Email: johannarayl [at] berkeley [dot] edu
 
 ## Works in Progress
 <div class="paper">
-  <div class="paper-title">Paid Maternity Leave and Children's Outcomes in the Long Run</div>
+  <div class="paper-title">Paid Maternity Leave and Children's Outcomes in the Short and Long Run</div>
   <div class="small">with Tessa Bonomo</div>
   <div class="small">Approved US Census Bureau project</div>
   <div class="toggle-link" onclick="toggleAbstract(this)">[Abstract]</div>
   <div class="abstract">
-    The US is one of few countries worldwide without a national mandate for paid maternity leave, and as such, we know little about the effects of paid leave in this context. The first cases of statewide maternity leave in the U.S. came about somewhat unintentionally through changes in state Temporary Disability Insurance (TDI) in the 1960s and 1970s. Six to seven decades later, we have the opportunity to explore the long run effects of access to paid maternity leave on children, later in their lives. We do so employing a differences-in-discontinuities design around changes in state TDI policies which made disability insurance available for pregnancy. In "first stage" results, we provide new estimates of the effects of paid maternity leave availability on infant birth weights, improving upon existing methodologies estimating the same effect in the literature, and finding much larger positive effects. In a "second stage" exercise, we will link measures of the education and earnings of children with their birthdate records using Census and Numident data to provide the first estimates of the long run impacts of paid maternity leave on children for the US.
+    The US is one of few countries worldwide without a national mandate for paid maternity leave, and as such, we know little about the effects of paid leave in this context. The first cases of statewide maternity leave in the U.S. came about somewhat unintentionally through changes in state Temporary Disability Insurance (TDI) in the 1960s and 1970s. Five to six decades later, we have the opportunity to explore the long run effects of access to paid maternity leave on children, later in their lives. We do so employing a differences-in-discontinuities design around changes in state TDI policies which made disability insurance available for pregnancy. In the short run, we find positive effects of paid leave on infant birthweight, six times larger than previously shown. To investigate long-run outcomes, we link measures of the education and earnings of children with their birthdate records using Census and Numident data to provide the first estimates of the long run impacts of paid maternity leave on children for the US.
   </div>
 </div>
 
