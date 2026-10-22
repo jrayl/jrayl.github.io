@@ -63,6 +63,10 @@ Email: johannarayl [at] berkeley [dot] edu
   <div class="small"><em>AEA Papers and Proceedings</em></div>
 </div>
 
+## Works in Progress
+<div class="paper">
+  <div class="paper-title">Regulated Utilities, Unregulated Affiliates, and the Captive Consumer</div>
+</div>
 
 <style>
   .paper {
