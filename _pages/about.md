@@ -65,7 +65,7 @@ Email: johannarayl [at] berkeley [dot] edu
 
 ## Works in Progress
 <div class="paper">
-  <div class="paper-title">Regulated Utilities, Unregulated Affiliates, and the Captive Consumer</div>
+  <div class="paper-title">Who Pays When Owners Diversify? Holding Company Structure and Retail Electricity Rates</div>
 </div>
 
 <style>
