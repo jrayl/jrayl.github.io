@@ -19,7 +19,7 @@ Email: johannarayl [at] berkeley [dot] edu
 
 ## Working Papers
 <div class="paper">
-  <div class ="paper-title"><a href="https://jrayl.github.io/files/Rayl_Resosudarmo_FuelSubsidies.pdf" target="_blank">Redistribution with Limited Information: Fuel Subsidies and Cash Transfers in Indonesia</a></div>
+  <div class ="paper-title"><a href="https://jrayl.github.io/files/Rayl_Resosudarmo_FuelSubsidies.pdf" target="_blank">Revealing Income with Fuel Subsidies and Cash Transfers in Indonesia</a></div>
   <div class="small">with Budy Resosudarmo</div>
   <div class="toggle-link" onclick="toggleAbstract(this)">[Abstract]</div> 
   <div class="abstract">
